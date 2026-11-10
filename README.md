@@ -3,7 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/formatho/url-encoder-decoder?style=social)](https://github.com/formatho/url-encoder-decoder)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Privacy First](https://img.shields.io/badge/Privacy-First%20%F0%9F%94%92-success)](https://formatho.com)
-[![Try Online](https://img.shields.io/badge/Try%20Online-Online%20%F0%9F%8C%90-blue)](https://formatho.com/url-encoder-decoder)
+[![Try Online](https://img.shields.io/badge/Try%20Online-Online%20%F0%9F%8C%90-blue)](https://formatho.com/tools/url-encoder)
 
 A fast, secure, and privacy-first URL encoder/decoder that processes data entirely in your browser. No data is ever sent to a server, ensuring complete privacy and security for your sensitive URLs.
 
@@ -58,7 +58,7 @@ Decoded:  https://example.com/search?q=hello world
 
 ### Web App
 
-Visit [formatho.com/url-encoder-decoder](https://formatho.com/url-encoder-decoder) and:
+Visit [formatho.com/tools/url-encoder](https://formatho.com/tools/url-encoder) and:
 
 1. **Encode**: Paste or type your URL in the input field
 2. **Decode**: Paste an encoded URL in the input field
@@ -129,7 +129,7 @@ At Formatho, we believe in privacy-first development:
 
 ### For Web App
 
-No installation required! Visit [formatho.com/url-encoder-decoder](https://formatho.com/url-encoder-decoder).
+No installation required! Visit [formatho.com/tools/url-encoder](https://formatho.com/tools/url-encoder).
 
 ### For NPM Package
 
@@ -204,9 +204,9 @@ This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) fo
 ## 🔗 Related Tools
 
 - [Base64 Encoder/Decoder](https://github.com/formatho/base64-encoder-decoder) - Encode and decode Base64 strings
-- [HTML Entity Encoder/Decoder](https://github.com/formatho/html-entity-encoder-decoder) - Encode and decode HTML entities
+- [HTML Entity Encoder/Decoder](https://formatho.com/tools) - Encode and decode HTML entities
 - [JSON Formatter](https://github.com/formatho/json-formatter) - Format and validate JSON data
-- [URL Parser](https://formatho.com/url-parser) - Parse and analyze URLs
+- [URL Parser](https://formatho.com/tools/url-parser) - Parse and analyze URLs
 
 ## 💬 Support
 
@@ -224,7 +224,7 @@ This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) fo
 
 Privacy-first developer tools, 100+ utilities with zero tracking.
 
-[Try Online](https://formatho.com/url-encoder-decoder) | [More Tools](https://formatho.com) | [Privacy Policy](https://formatho.com/privacy)
+[Try Online](https://formatho.com/tools/url-encoder) | [More Tools](https://formatho.com) | [Privacy Policy](https://formatho.com/privacy)
 ## ⚡ Free API — Cloudflare Worker
 
 This tool is also available as a free, zero-tracking API deployed on Cloudflare Workers:
@@ -235,5 +235,5 @@ Deploy it yourself: the complete Worker source is in [`worker/`](./worker) — `
 
 ## 🔗 Links
 
-- [Online tool](https://formatho.com/url-encoder-decoder)
+- [Online tool](https://formatho.com/tools/url-encoder)
 - [Live API](https://url-encoder-formatho.filesformatho.workers.dev)

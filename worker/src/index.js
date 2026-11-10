@@ -6,7 +6,7 @@ const JSON_HEADERS = {
   'Access-Control-Allow-Origin': '*',
   'X-Privacy-Policy': 'Zero tracking, zero data collection',
 };
-const FULL_TOOL = 'https://formatho.com/url-encoder-decoder';
+const FULL_TOOL = 'https://formatho.com/tools/url-encoder';
 
 export default {
   async fetch(request) {
